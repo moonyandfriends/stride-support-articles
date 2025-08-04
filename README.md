@@ -2,17 +2,41 @@
 
 This repository contains the official support articles and documentation for Stride Labs, the core team behind Stride - a Cosmos-SDK blockchain that enables liquid staking of ATOM and other Cosmos assets.
 
-## Current Articles
+## Article Library (25 Articles)
 
-### Getting Started
-- **liquid-staking-guide.md** - Complete beginner's guide to liquid staking with Stride
-- **wallet-setup.md** - Setting up and connecting wallets (Keplr, Leap, Cosmostation)
-- **governance-guide.md** - Participating in governance with liquid staking tokens
+### Getting Started (8 articles)
+- **how-to-connect-to-keplr-on-stride.md** - Wallet connection and setup guide
+- **how-to-liquid-stake-using-leap-dashboard.md** - Alternative interface for liquid staking
+- **how-to-claim-your-airdrop.md** - Complete STRD airdrop redemption guide
+- **how-to-import-metamask-into-keplr.md** - Wallet import and configuration
+- **how-to-add-evm-addresses-in-keplr.md** - EVM address setup for cross-chain compatibility
+- **wallet-setup.md** - Comprehensive wallet setup guide (Keplr, Leap, Cosmostation)
 - **security-guide.md** - Security best practices for Stride users
 - **troubleshooting-guide.md** - Solutions to common issues and problems
 
-### Advanced Guides
-- **defi-integration-guide.md** - Using Stride LSTs in DeFi protocols
+### Liquid Staking (6 articles)
+- **how-to-liquid-stake-on-stride.md** - Core liquid staking process guide
+- **how-to-unstake-tokens.md** - Complete unbonding and redemption process
+- **liquid-staking-guide.md** - Comprehensive beginner's guide to liquid staking
+- **how-to-get-stbgt.md** - Berachain stBGT farming guide
+- **how-to-farm-the-stride-airdrop.md** - Airdrop farming strategies
+- **sttia-liquid-staking-airdrop-guide.md** - stTIA liquid staking and airdrop guide
+
+### Integrations (8 articles)
+- **how-to-provide-statom-liquidity-on-osmosis.md** - stATOM liquidity provision on Osmosis
+- **how-to-provide-stosmo-liquidity-on-osmosis.md** - stOSMO liquidity provision guide
+- **how-to-provide-sttia-liquidity-on-osmosis.md** - stTIA liquidity provision on Osmosis
+- **how-to-swap-on-osmosis.md** - Token swapping guide for Osmosis DEX
+- **how-to-borrow-against-sttokens-on-mars.md** - Mars Protocol lending integration
+- **how-to-borrow-against-sttokens-on-umee.md** - Umee money market integration
+- **how-to-mint-ist-with-statom-on-agoric.md** - Agoric IST stablecoin minting guide
+- **defi-integration-guide.md** - Comprehensive DeFi usage guide for LSTs
+
+### Bridging (1 article)
+- **how-to-bridge-funds-to-cosmos-using-squidrouter.md** - Cross-chain bridging with Squid
+
+### Reference (2 articles)
+- **governance-guide.md** - Governance participation with liquid staking tokens
 - **general-faq.md** - Frequently asked questions about Stride
 
 ## Article Formatting Guidelines
